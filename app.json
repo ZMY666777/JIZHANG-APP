@@ -1,0 +1,70 @@
+{
+  "pages":[ 
+    "pages/index/index",
+    "pages/data/index",
+    "pages/write/index",
+    "pages/settings/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "快捷记账",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "color": "#999",
+    "selectedColor": "#ff2d4a",
+    "backgroundColor": "#fafafa",
+    "position": "bottom",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "明细",
+        "iconPath": "icons/icon--.png",
+        "selectedIconPath": "icons/icon---copy.png"
+      },
+      {
+        "pagePath": "pages/data/index",
+        "text": "统计",
+        "iconPath": "icons/tongji.png",
+        "selectedIconPath": "icons/tongji-copy.png"
+      },
+      {
+        "pagePath": "pages/settings/index",
+        "text": "我的",
+        "iconPath": "icons/wode.png",
+        "selectedIconPath": "icons/wode-copy.png"
+      }
+    ]
+  },
+  
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+<view>
+  首页
+  <view class='adddata'>
+    <image class='addimg' bindtap="addwater" src='/icons/lianluojilu.png'></image>
+  </view>
+</view>
+  
